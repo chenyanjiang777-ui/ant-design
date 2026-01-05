@@ -20,7 +20,7 @@ const App: React.FC = () => (
         {content}
       </Spin>
     </Flex>
-    <Spin tip="Loading...">
+    <Spin tip="加载中...">
       <Alert
         title="Alert message title"
         description="Further details about the context of this alert."
